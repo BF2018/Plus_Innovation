@@ -1,0 +1,5 @@
+Possible Improvements (with time/scope)
+* Unit testing should be added
+*Better UI implementation should be done
+*Shared element transition or animation from Main Activity to Details Activity
+*Improvement on error handling
